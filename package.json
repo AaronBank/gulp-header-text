@@ -1,0 +1,12 @@
+{
+    "name": "gulp-header-text",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "through2": "^3.0.1"
+    }
+}
